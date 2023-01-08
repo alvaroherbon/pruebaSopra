@@ -1,4 +1,4 @@
-package pruebaSopra.Ej2;
+package pruebaTecnica.Ej2;
 
 public class Persona {
     String sexo; 

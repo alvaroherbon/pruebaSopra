@@ -1,5 +1,5 @@
-package pruebaSopra.Ej2;
-import pruebaSopra.Ej2.Persona;
+package pruebaTecnica.Ej2;
+import pruebaTecnica.Ej2.Persona;
 
 public class Ej2 {
     Persona [] personas = new Persona[50];

@@ -1,4 +1,4 @@
-package pruebaSopra.Ej1;
+package pruebaTecnica.Ej1;
 
 public class Ej1 {
 
